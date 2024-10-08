@@ -1,2 +1,2 @@
-# 2024-1A-meu-primeiro-site
-Meu primeiro site em HTML e CSS
+# 2024_1A_meu_primeiro_site
+meu primeiro site HTML e CSS
